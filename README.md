@@ -157,7 +157,3 @@ This project is open source. Please check the LICENSE file for details.
 ## Support
 
 For issues, questions, or suggestions, please open an issue on the GitHub repository.
-
----
-
-**Built with ❤️ by Hasan-Atwi**
