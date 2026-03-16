@@ -50,6 +50,12 @@ The system follows a step-by-step pipeline:
 - Generates contextually accurate answers based on your documents
 - Returns relevant, sourced information
 
+### Main Orchestration (`rag_step_by_step.py`)
+- Ties all steps together into a unified pipeline
+- Handles end-to-end workflow from document loading to answer generation
+- Manages user input and displays results
+- This is the main script you run to use the RAG system
+
 ## Quick Start
 
 ### Prerequisites
